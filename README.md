@@ -11,8 +11,11 @@ Este bot foi desenvolvido para gerenciar um servidor do Discord, incluindo coman
 * Comando !say: Repete a mensagem do usuário em um embed estilizado
 * Status personalizado: Exibe uma mensagem indicando quem programou o bot
 
-## Como usar:
-* Substitua o token do bot em client.run('SEU_TOKEN_AQUI') com o seu token do Discord.
+##Como usar:
+1. Clone este repositório.
+2. Instale as dependências com o comando pip install -r requirements.txt.
+3. Substitua o token do bot em client.run('SEU_TOKEN_AQUI') com o seu token do Discord.
+4. Execute o bot com python bot.py.
 
 ## Feito por:
 ### LinkedIn: [Juan Marini](https://www.linkedin.com/in/juan-marini/)
