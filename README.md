@@ -1,6 +1,6 @@
 
 ## Discord Bot - Python
-Este bot foi desenvolvido para gerenciar um servidor do Discord, incluindo comandos para interação, como repetir mensagens e realizar banimentos. O projeto tem como objetivo proporcionar uma melhor experiência de administração e comunicação dentro do servidor. Primeira versão do Bot.
+Este bot foi desenvolvido para gerenciar um servidor do Discord, incluindo comandos para interação, como repetir mensagens. O projeto tem como objetivo proporcionar uma melhor experiência de administração e comunicação dentro do servidor. Primeira versão do Bot.
 
 ## Tecnologias utilizadas:
 * Python
